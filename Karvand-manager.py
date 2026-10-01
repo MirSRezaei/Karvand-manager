@@ -1,6 +1,10 @@
 user_count = 1
+<<<<<<< HEAD
 user_dict = dict() #add #commit #push #branch  ###hello(txt-managerrrrr)
 #asdasdasdads
+=======
+user_dict = dict() #add #commit #push #branch  
+>>>>>>> txt-manager
 # {
 # "bootcamp" : {
 #   "title" : "" , "year" : ""
