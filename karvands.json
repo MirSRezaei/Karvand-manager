@@ -1,0 +1,17 @@
+{
+"bootcamp" : {
+  "title" : "" , "year" : ""
+  } ,
+ "karvands" : [
+     {
+          "id" : "", "name" : "" , "email" : "" , "city" : "" ,
+          "education" : { "degree" : "" , "fields" : []  
+           }  ,
+              "skills": [
+                      {
+                  "name" : "" , "level" : "" 
+                       }
+                 ]
+          }
+      ]
+  }
